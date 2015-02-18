@@ -9,8 +9,7 @@
 <data key='user.import.profile' value='false'/>
 </profile>
 <install modify='false'>
-<offering id='com.ibm.websphere.ND.v85' profile='IBM WebSphere Application Server V8.5' features='com.ibm.sdk.6_64bit,core.feature' inst
-allFixes='none'/>
+<offering id='com.ibm.websphere.ND.v85' profile='IBM WebSphere Application Server V8.5' features='com.ibm.sdk.6_64bit,core.feature' installFixes='none'/>
 </install>
 <preference name='com.ibm.cic.common.core.preferences.eclipseCache' value='/opt/IBM/IMShared'/>
 <preference name='com.ibm.cic.common.core.preferences.connectTimeout' value='30'/>
